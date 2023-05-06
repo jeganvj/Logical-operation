@@ -75,7 +75,8 @@ void loop() </br>
 
 ## OUTPUT:
 
-![image](https://user-images.githubusercontent.com/132323363/235729493-2d1dec46-1cf7-42af-8017-831c1255f5c9.png)
+![U2](https://user-images.githubusercontent.com/132778872/236640285-4827e3a5-f099-4f05-95df-985afa50676c.jpeg)
+
 
 
 ## RESULT:
